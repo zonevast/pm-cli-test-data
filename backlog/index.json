@@ -35,19 +35,31 @@
       ],
       "status": "todo",
       "sprintId": null
+    },
+    {
+      "id": 4,
+      "title": "Deploy to Production",
+      "priority": "high",
+      "points": 8,
+      "tags": [
+        "deployment",
+        "devops"
+      ],
+      "status": "todo",
+      "sprintId": null
     }
   ],
-  "totalItems": 3,
-  "totalPoints": 26,
+  "totalItems": 4,
+  "totalPoints": 34,
   "byPriority": {
-    "high": 2,
+    "high": 3,
     "medium": 1,
     "low": 0
   },
   "byStatus": {
-    "todo": 1,
+    "todo": 2,
     "in-progress": 2,
     "completed": 0
   },
-  "lastUpdated": "2025-11-07T00:56:13.109280"
+  "lastUpdated": "2025-11-07T01:04:53.437870"
 }

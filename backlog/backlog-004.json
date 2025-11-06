@@ -1,0 +1,18 @@
+{
+  "id": 4,
+  "title": "Deploy to Production",
+  "description": null,
+  "priority": "high",
+  "points": 8,
+  "tags": [
+    "deployment",
+    "devops"
+  ],
+  "status": "todo",
+  "created": "2025-11-07T01:04:53.437639",
+  "updated": "2025-11-07T01:04:53.437643",
+  "assignedToSprint": null,
+  "relatedProjects": [],
+  "acceptanceCriteria": [],
+  "technicalNotes": null
+}
