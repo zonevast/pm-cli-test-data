@@ -1,0 +1,40 @@
+{
+  "id": 1,
+  "title": "Sprint 1: Core Features",
+  "type": "fullstack",
+  "status": "active",
+  "startDate": "2025-11-07",
+  "endDate": "2025-11-21",
+  "duration": 14,
+  "goal": null,
+  "backlogItems": [
+    1,
+    2
+  ],
+  "plannedPoints": 13,
+  "completedPoints": 0,
+  "velocity": 0,
+  "created": "2025-11-07T00:56:13.108015",
+  "completed": null,
+  "team": [],
+  "phases": [],
+  "linkedLessons": [],
+  "linkedWorkflows": [],
+  "files": [
+    "overview",
+    "objectives",
+    "architecture",
+    "frontend-components",
+    "backend-api",
+    "database-schema",
+    "dependencies",
+    "decisions"
+  ],
+  "customFiles": [],
+  "logsCount": 3,
+  "aiGenerated": {
+    "summary": false,
+    "lessons": false,
+    "generatedAt": null
+  }
+}

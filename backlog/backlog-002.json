@@ -1,0 +1,18 @@
+{
+  "id": 2,
+  "title": "Dashboard UI",
+  "description": null,
+  "priority": "medium",
+  "points": 5,
+  "tags": [
+    "frontend",
+    "ui"
+  ],
+  "status": "in-progress",
+  "created": "2025-11-07T00:56:12.388791",
+  "updated": "2025-11-07T00:56:13.109103",
+  "assignedToSprint": 1,
+  "relatedProjects": [],
+  "acceptanceCriteria": [],
+  "technicalNotes": null
+}

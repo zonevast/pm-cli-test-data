@@ -1,0 +1,18 @@
+{
+  "id": 3,
+  "title": "API Integration",
+  "description": null,
+  "priority": "high",
+  "points": 13,
+  "tags": [
+    "backend",
+    "api"
+  ],
+  "status": "todo",
+  "created": "2025-11-07T00:56:12.588280",
+  "updated": "2025-11-07T00:56:12.588284",
+  "assignedToSprint": null,
+  "relatedProjects": [],
+  "acceptanceCriteria": [],
+  "technicalNotes": null
+}

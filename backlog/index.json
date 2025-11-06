@@ -1,0 +1,53 @@
+{
+  "items": [
+    {
+      "id": 1,
+      "title": "User Authentication",
+      "priority": "high",
+      "points": 8,
+      "tags": [
+        "backend",
+        "security"
+      ],
+      "status": "in-progress",
+      "sprintId": 1
+    },
+    {
+      "id": 2,
+      "title": "Dashboard UI",
+      "priority": "medium",
+      "points": 5,
+      "tags": [
+        "frontend",
+        "ui"
+      ],
+      "status": "in-progress",
+      "sprintId": 1
+    },
+    {
+      "id": 3,
+      "title": "API Integration",
+      "priority": "high",
+      "points": 13,
+      "tags": [
+        "backend",
+        "api"
+      ],
+      "status": "todo",
+      "sprintId": null
+    }
+  ],
+  "totalItems": 3,
+  "totalPoints": 26,
+  "byPriority": {
+    "high": 2,
+    "medium": 1,
+    "low": 0
+  },
+  "byStatus": {
+    "todo": 1,
+    "in-progress": 2,
+    "completed": 0
+  },
+  "lastUpdated": "2025-11-07T00:56:13.109280"
+}

@@ -1,0 +1,16 @@
+{
+  "sprintDefaults": {
+    "duration": 14,
+    "type": "fullstack"
+  },
+  "backlogDefaults": {
+    "priority": "medium",
+    "estimateInPoints": true
+  },
+  "editor": null,
+  "autoBackup": true,
+  "syncBeforeCommands": false,
+  "gitRemote": "https://github.com/zonevast/pm-cli-test-data.git",
+  "gitBranch": "main",
+  "autoSync": false
+}
